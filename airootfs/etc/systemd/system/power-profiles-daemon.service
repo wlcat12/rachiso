@@ -1,0 +1,1 @@
+/etc/systemd/system/graphical.target.wants/power-profiles-daemon.service
